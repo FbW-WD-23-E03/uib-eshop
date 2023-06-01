@@ -10,3 +10,5 @@ the "main" branch is protected by a rule, 2 approvals are required to merge any 
 
 
 feel free to practice making branches, pulling, pushing, merging....
+
+edit
